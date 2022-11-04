@@ -10,7 +10,7 @@
 <a href="https://twitter.com/onursmry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onursmry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onur-esmeray-10271969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-esmeray-10271969" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/onursmry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onursmry" height="30" width="40" /></a>
-<a href="https://discord.gg/HandBones#3680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HandBones#3680" height="30" width="40" /></a>
+<a href="https://discord.gg/Ezs37YA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HandBones#3680" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
